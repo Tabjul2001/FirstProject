@@ -1,2 +1,4 @@
+This is just demo. How to add files in git to github.
+
 server.port = 8081
 spring.application.name = EmployeeProject
